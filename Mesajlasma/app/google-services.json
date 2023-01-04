@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "684155439048",
+    "project_id": "mesajlasma2-e9793",
+    "storage_bucket": "mesajlasma2-e9793.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:684155439048:android:690d9f147221f72a5222fd",
+        "android_client_info": {
+          "package_name": "com.example.mesajlasma"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "684155439048-6as9kj3sv7tcql76gk5o04jp8efcnr0c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfsaOA7pzyuRWOO0TayQhT9gnvx7zCj-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "684155439048-6as9kj3sv7tcql76gk5o04jp8efcnr0c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
